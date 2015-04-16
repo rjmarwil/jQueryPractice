@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+}
+.red {
+  background: red;
+  width: 200px;
+  font-size: 20px;
+}
+.green {
+  background: green;
+  width: 1000px;
+  font-size: 50px;
+
+}
+
+.bg {
+  background: pink;
+}
